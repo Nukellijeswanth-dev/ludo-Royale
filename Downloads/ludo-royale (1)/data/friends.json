@@ -1,0 +1,26 @@
+[
+  {
+    "friendshipId": "fr_1788795807351_gwm4q",
+    "requesterId": "test_player_a_1788795806604",
+    "receiverId": "test_player_b_1788795806604",
+    "status": "ACCEPTED",
+    "createdAt": "2026-09-07T15:43:27.351Z",
+    "updatedAt": "2026-09-07T15:43:27.964Z"
+  },
+  {
+    "friendshipId": "fr_1788795853264_oeld5",
+    "requesterId": "test_player_a_1788795852574",
+    "receiverId": "test_player_b_1788795852574",
+    "status": "ACCEPTED",
+    "createdAt": "2026-09-07T15:44:13.264Z",
+    "updatedAt": "2026-09-07T15:44:13.877Z"
+  },
+  {
+    "friendshipId": "fr_1788795888086_zv1zr",
+    "requesterId": "test_player_a_1788795887380",
+    "receiverId": "test_player_b_1788795887380",
+    "status": "ACCEPTED",
+    "createdAt": "2026-09-07T15:44:48.086Z",
+    "updatedAt": "2026-09-07T15:44:48.698Z"
+  }
+]

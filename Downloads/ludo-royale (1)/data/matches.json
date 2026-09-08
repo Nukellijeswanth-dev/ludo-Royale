@@ -1,0 +1,70 @@
+[
+  {
+    "matchId": "match_seed_001",
+    "timestamp": 1788854290930,
+    "dateIso": "2026-09-08T07:58:10.930Z",
+    "durationSeconds": 420,
+    "roomCode": "ROYALE",
+    "winnerId": "usr_jeswanth_1",
+    "winnerName": "Jeswanth",
+    "winnerColor": "RED",
+    "players": [
+      {
+        "id": "usr_jeswanth_1",
+        "name": "Jeswanth",
+        "avatar": "👑",
+        "color": "RED",
+        "level": 5,
+        "captures": 3,
+        "rank": 1
+      },
+      {
+        "id": "usr_bot_1",
+        "name": "Cyber_Knight",
+        "avatar": "🛡️",
+        "color": "BLUE",
+        "level": 4,
+        "captures": 1,
+        "rank": 2
+      }
+    ],
+    "playerColors": {
+      "usr_jeswanth_1": "RED",
+      "usr_bot_1": "BLUE"
+    },
+    "finalRankings": [
+      {
+        "playerId": "usr_jeswanth_1",
+        "rank": 1,
+        "score": 250,
+        "captures": 3
+      },
+      {
+        "playerId": "usr_bot_1",
+        "rank": 2,
+        "score": 90,
+        "captures": 1
+      }
+    ],
+    "ratingChanges": {
+      "usr_jeswanth_1": {
+        "previousRating": 1817,
+        "newRating": 1842,
+        "delta": 25
+      },
+      "usr_bot_1": {
+        "previousRating": 1705,
+        "newRating": 1690,
+        "delta": -15
+      }
+    },
+    "xpEarned": {
+      "usr_jeswanth_1": 150,
+      "usr_bot_1": 45
+    },
+    "coinsEarned": {
+      "usr_jeswanth_1": 200,
+      "usr_bot_1": 50
+    }
+  }
+]

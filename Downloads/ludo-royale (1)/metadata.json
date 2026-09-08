@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Royale",
+  "description": "A modern, highly interactive, production-quality web-based Ludo game with real-time online multiplayer, 2-4 player local & AI gameplay, authoritative game state, and rich animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

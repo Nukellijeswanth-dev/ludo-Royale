@@ -1,0 +1,13 @@
+[
+  {
+    "id": "usr_jeswanth_1",
+    "email": "jeswanth@ludoroyale.com",
+    "displayName": "Jeswanth",
+    "avatar": "👑",
+    "provider": "local",
+    "passwordHash": "27bf102a8a56d84f2cec50fbbad4c3807828973036d8f9d6e051c4881dfcccc4c4708072aa99d4765614576aaa42ac2faa0d12b3e2e0013a56ccff6964f5ae82",
+    "salt": "084fdea038fdb509ae582735b496d00a",
+    "createdAt": "2026-01-15T00:00:00.000Z",
+    "lastLoginAt": "2026-09-08T12:58:10.927Z"
+  }
+]
